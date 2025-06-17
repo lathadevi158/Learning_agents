@@ -32,26 +32,15 @@ This project is a **conversational chatbot application** built using `LangChain`
 
 ---
 
-## 📁 Folder Structure
-
-📦movie-recommendation-chatbot/
-├── app.ipynb # Main Jupyter Notebook UI
-├── global_config.json # API and Azure deployment credentials
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
-
-
+📄 **License**  
+This project is licensed under the MIT License.
 
 ---
 
-
-
-🧑‍💻 Author
-Marpally Latha Devi
-Prompt Engineer | Generative AI Enthusiast | Python Developer
-
-🪪 License
-This project is licensed under the MIT License.
+🙋‍♀️ **Author**  
+**Marpally Latha Devi**  
+Prompt Engineer | Generative AI Developer  
+GitHub: [lathadevi158](https://github.com/lathadevi158)
 
 
 
